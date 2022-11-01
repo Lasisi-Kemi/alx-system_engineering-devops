@@ -2,3 +2,4 @@
 # troubleshoot and configure nginx
 cat /etc/nginx/sites-available/default > /etc/nginx/sites-enabled/default
 sudo service nginx restart
+
